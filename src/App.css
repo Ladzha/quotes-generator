@@ -29,6 +29,7 @@ h2 {
 .container {
   background: #D8C4B6;
   margin-top: 5rem;
+  border-radius: 1rem;
   padding: 3rem;
   width: 75%;
 }
@@ -37,6 +38,7 @@ h2 {
 .button {
   background: #F5EFE7;
   border: none;
+  border-radius: 0.8rem;
   font-size: 1.1rem;
   color:#213555;
   font-weight: 500;

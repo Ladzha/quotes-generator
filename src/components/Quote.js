@@ -1,6 +1,5 @@
 import quotes from './quotes'
-import colors from './colors'
-import {useState, useEffect} from 'react'
+import {useState} from 'react'
 
 
 const Quote = ()=>{
